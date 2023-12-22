@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saizaakashi
-- 👀 I’m interested in codin WEB3 and crypto industy
+- 👀 I’m interested in coding WEB3 and crypto industy
 - 🌱 I’m currently learning Solidity and rust
 - 💞️ I'm looking for cooperation with everyone who wants it
 
